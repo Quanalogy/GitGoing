@@ -157,3 +157,7 @@ pythontex-files-*/
 
 # Latexian
 TSWLatexianTemp*
+
+
+#remove clion user specific files
+ClionProjekt/.idea/*
